@@ -1,0 +1,1 @@
+export const sampleText = '# Titre ## Sous-Titre ### Titre plus profond'
